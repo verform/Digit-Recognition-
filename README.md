@@ -1,1 +1,1 @@
-A supervised logistic regression model,which predicts can predict handwritten digits upto an accuracy of 97.17% .
+A supervised logistic regression model,which can predict handwritten digits upto an accuracy of 97.17% .
