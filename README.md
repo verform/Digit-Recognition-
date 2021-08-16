@@ -7,5 +7,7 @@ I have used **200 hidden nodes** to efficiently train my model.
 Also used **learning rate** to **hypertune** my model.
 
 **MNIST Data Source**
+
 Training Data: http://www.pjreddie.com/media/files/mnist_train.csv
+
 Test Data: http://www.pjreddie.com/media/files/mnist_test.csv
